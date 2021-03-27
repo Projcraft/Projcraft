@@ -1,2 +1,2 @@
-# Procraft
+# Projcraft
 Website for the Mincraft Project Projcraft
